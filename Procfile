@@ -1,1 +1,1 @@
-web: gunicorn project:app --log-file=-
+web: python Maketwise.py -p $PORT
