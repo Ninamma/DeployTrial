@@ -1,4 +1,4 @@
-from flask import Flask, render_template, request
+from flask import Flask, #render_template, request
 #from APIs import Adapter
 app = Flask("MyApp")
 
